@@ -49,6 +49,7 @@ The dataset consists of labeled images for 23 different pet breeds. Each image w
 ![Predictions **improved_model** on **test_loader**](screenshots/Final_test_prediction.png)
 
 ### Streamlit App Interface
+- ** You can play with our model on this link:** [Link to Streamlit app](https://petbreeds-bda2206.streamlit.app/)
 ![Streamlit App Interface](screenshots/app_interface.png)
 
 ### Base model predictions
